@@ -1,0 +1,13 @@
+1. DDL( Data Definition Language) --• create, alter, drop, truncate, rename
+2. DML( Data Manipulation Language) --• insert, update, delete
+3. DRL/DQL ( Data Retrieval Language/Data Query Language) --• select
+4. TCL ( Transaction Control Language)--• Commit, Rollback, save point
+5. DCL ( Data Control Language)--• GRANT, REVOKE
+*CREATE DATABASE testDB;
+CREATE TABLE table_name (
+    column1 datatype,
+    column2 datatype,
+    column3 datatype,
+   ....
+);
+• INSERT INTO <<TABLE NAME>> VALUES(VAL1,AL2,VAL3....);
